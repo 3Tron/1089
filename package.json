@@ -1,0 +1,19 @@
+{
+  "name": "1089",
+  "version": "1.0.0",
+  "description": "Error test",
+  "main": "1089.js",
+  "scripts": {
+    "test": "nodejs 1089.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://syno/git/1089"
+  },
+  "keywords": [
+    "1089",
+    "198"
+  ],
+  "author": "Jean-Philippe Ruijs",
+  "license": "ISC"
+}
