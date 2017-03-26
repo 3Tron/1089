@@ -15,8 +15,8 @@ for (let h = 1; h < 10; h++) {
     }
 }
 console.log(count);
-const p = count.ok/(count.ok+count.ko);
-console.log(' ok %' ,p*100);
+const p = count.ok / (count.ok + count.ko);
+console.log(' ok %', p * 100);
 function check(v1) {
 
     const v2 = inverse(v1);
