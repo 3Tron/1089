@@ -4,7 +4,8 @@
   "description": "Error test",
   "main": "1089.js",
   "scripts": {
-    "test": "nodejs 1089.js"
+    "test": "nodejs 1089.js",
+    "start": "nodejs 1089.js"
   },
   "repository": {
     "type": "git",
