@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://syno/git/1089"
+    "url": "git@github.com:3Tron/1089.git"
   },
   "keywords": [
     "1089",
